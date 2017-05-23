@@ -1,0 +1,35 @@
+{
+  "name": "purescript-group",
+  "homepage": "https://github.com/morganthomas/purescript-group",
+  "description": "Group algebraic structure for PureScript",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morganthomas/purescript-group.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-monoid": "^3.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^3.0.0"
+  },
+  "version": "2.1.0",
+  "_release": "2.1.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v2.1.0",
+    "commit": "b4e9b40bda255806bf02604b9f97752de2f69069"
+  },
+  "_source": "https://github.com/morganthomas/purescript-group.git",
+  "_target": "^2.1.0",
+  "_originalSource": "purescript-group"
+}

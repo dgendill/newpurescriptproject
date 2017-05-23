@@ -1,0 +1,22 @@
+{
+  "name": "purescript-modules",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TinkerTravel/purescript-modules.git"
+  },
+  "dependencies": {
+    "purescript-prelude": "^3.0.0"
+  },
+  "homepage": "https://github.com/TinkerTravel/purescript-modules",
+  "version": "3.0.0",
+  "_release": "3.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.0",
+    "commit": "1f00a55f3984a1c2a62f8888e53ec9da800cee9f"
+  },
+  "_source": "https://github.com/TinkerTravel/purescript-modules.git",
+  "_target": "^3.0.0",
+  "_originalSource": "purescript-modules"
+}

@@ -1,0 +1,37 @@
+{
+  "name": "purescript-fixed-points",
+  "license": "Apache-2.0",
+  "authors": [
+    "Jon Sterling <jon@jonmsterling.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/slamdata/purescript-fixed-points.git"
+  },
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "output",
+    "test",
+    "bower.json",
+    "package.json"
+  ],
+  "dependencies": {
+    "purescript-exists": "^3.0.0",
+    "purescript-prelude": "^3.0.0",
+    "purescript-newtype": "^2.0.0",
+    "purescript-transformers": "^3.1.0"
+  },
+  "homepage": "https://github.com/slamdata/purescript-fixed-points",
+  "version": "4.0.0",
+  "_release": "4.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.0",
+    "commit": "c3fd30b62519c2408eb87e9363cdf69d35d05353"
+  },
+  "_source": "https://github.com/slamdata/purescript-fixed-points.git",
+  "_target": "^4.0.0",
+  "_originalSource": "purescript-fixed-points"
+}
