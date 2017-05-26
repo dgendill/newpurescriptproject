@@ -1,0 +1,1 @@
+My personal way to reduce setup time for new PureScript projects.  Just checkout the repo locally, and then point `newproject.sh` to the local repository.  Add `newproject.sh` to your path.  When you want to start a new project just type `newproject.sh` and start coding.
