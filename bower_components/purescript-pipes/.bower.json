@@ -1,0 +1,37 @@
+{
+  "name": "purescript-pipes",
+  "version": "4.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/felixSchl/purescript-pipes.git"
+  },
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-monoid": "^3.0.0",
+    "purescript-transformers": "^3.0.0",
+    "purescript-tuples": "^4.0.0",
+    "purescript-lists": "^4.0.0",
+    "purescript-tailrec": "^3.0.0",
+    "purescript-mmorph": "^3.0.0",
+    "purescript-prelude": "^3.0.0"
+  },
+  "homepage": "https://github.com/felixschl/purescript-pipes",
+  "_release": "4.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v4.0.0",
+    "commit": "533a4e76cc576b3935f658613e7ad041f9347280"
+  },
+  "_source": "https://github.com/felixschl/purescript-pipes.git",
+  "_target": "^4.0.0",
+  "_originalSource": "purescript-pipes"
+}
